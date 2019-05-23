@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /sources/*
+Disallow: .gitignore
+Disallow: CNAME
+
+User-agent: Yandex
+Disallow: /sources/*
+Disallow: .gitignore
+Disallow: CNAME
+Host: mipkp.org
+
+User-agent: Googlebot
+Disallow: /sources/*
+Disallow: .gitignore
+Disallow: CNAME
+
+User-agent: ia_archiver
+Disallow: /
